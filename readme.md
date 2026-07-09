@@ -14,6 +14,7 @@ This repository contains the MySQL database schema and related resources for the
 
 ## Usage
 
+
 1. Import the schema into MySQL.
 2. Load sample data if available.
 3. Connect your application to the `dbNordSys` database.
