@@ -140,7 +140,7 @@ INSERT INTO services (
 
 CREATE TABLE seccion (
     id CHAR(36) NOT NULL,
-    num CHAR(2) NOT NULL,
+    num CHAR(10) NOT NULL,
     icon VARCHAR(20) NOT NULL,
     title VARCHAR(255) NOT NULL,
     descripcion TEXT NOT NULL,
